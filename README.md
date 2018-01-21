@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/TheDevPath/googleMaps-offline-navigator.png?columns=all)](https://waffle.io/TheDevPath/googleMaps-offline-navigator?utm_source=badge)
 # googleMaps-offline-navigator
 Open source project for Grow with Google Udacity Scholarship Challenge - Navigation app using offline first strategy and google maps api
 
